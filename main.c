@@ -8,6 +8,8 @@
 #include "enigme.h"
 #include <string.h>
 
+
+/*AAAAA*/
 int main()
 {       
 	//  gcc *.h *.c -lm -lSDL -lSDL_image  -lSDL_ttf -lSDL_mixer -o prog -g
